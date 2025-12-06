@@ -83,7 +83,6 @@ function App() {
   return (
     <div className='app'>
       <div className='header'>
-        <img src='https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210420155809/gfg-new-logo.png' alt='Game Image' className='game-image'/>
         <div className='game-info'>
           <h1>Chess Game</h1>
         </div>
